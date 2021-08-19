@@ -1,5 +1,4 @@
-### Hello!
-Welcome to my profile.
+Hello and welcome to my profile.
 
 - Male - He/Him
 - Native Spanish and some English.
@@ -7,6 +6,7 @@ Welcome to my profile.
 Discord: Lugent#2000
 
 ![descarga](https://user-images.githubusercontent.com/35547583/130134240-71e50906-8466-4ef0-9db1-1cbdc5683332.jpg)
+
 <!--
 **Lugent/Lugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

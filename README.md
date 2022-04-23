@@ -1,7 +1,10 @@
 Hello and welcome to my profile.
 
-- Male - He/Him
+- Male
 - Native Spanish and some English.
+
+
+***Chala Head-Chala.*** *No importa lo que suceda, siempre el ánimo mantendré.* ***Chala Head-Chala.***
 
 ![descarga](https://user-images.githubusercontent.com/35547583/130134240-71e50906-8466-4ef0-9db1-1cbdc5683332.jpg)
 
